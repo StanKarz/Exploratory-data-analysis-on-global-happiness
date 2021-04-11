@@ -4,7 +4,7 @@ In this Jupyter notebook I will be exploring and analysing the 2020 data provide
 
 ## Getting Started
 
-You can the documentation for installing Jupyter [here](https://jupyter.org/install) or for more detailed instruction on installation [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) 
+You can the documentation for installing Jupyter [here](https://jupyter.org/install) or for more detailed instructions on installation [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) 
 
 For local installation, make sure you have pip installed and run:
 
@@ -24,7 +24,7 @@ $ jupyter notebook
 
 ### Running remotely
 
-You will need to make some configuration before running the Jupyter notebook remotely, see [docs](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
+You will need to make some configurations before running the Jupyter notebook remotely, see [docs](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 
 ## Built With
 
