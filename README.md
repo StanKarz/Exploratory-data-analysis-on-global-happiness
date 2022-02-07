@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Happiness Around The World
+# Exploratory Data Analysis on Global Happiness
 
 In this Jupyter notebook I will be exploring and analysing the 2020 data provided by the world happiness report which ranks 156 countries on happiness, GDP per capita, perceptions of corruption, freedom to make life choices, social support, generosity and healthy life expectancy. I will be investigating the effects these variables have on happiness, additionally I will explore if any two variables are linked in any way and the relationship between them. The data was computed with Numpy and Pandas, whilst Matplotlib and Seaborn were used for data visualisation.
 
